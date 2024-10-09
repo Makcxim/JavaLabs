@@ -16,3 +16,9 @@
 ### [Задание 3](Laba2/Laba2Number3.java)
 ### [Задание 4](Laba2/Laba2Number4.java)
 ### [Условие](Laba2/Java_2.docx)
+
+
+## Лабораторная работа №3
+
+### [Задание 1](Laba3/Laba3Number1.java)
+### [Условие](Laba3/Java_3.docx)
