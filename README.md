@@ -30,3 +30,12 @@
 ### [Задание 2](Laba4/Laba4Number2.java)
 ### [Задание 3 и 4](Laba4/Laba4Number3and4.java)
 ### [Условие](Laba4/Java_4.docx)
+
+
+## Лабораторная работа №5
+
+### [Задание 1 и 2](Laba5/Laba5Number1and2.java)
+### [UML-диаграмма](Laba5/uml_diagram.html)
+### [Условие](Laba5/Java_5.docx)
+![img.png](Laba5/uml_diagram.png)
+### [статья](https://habr.com/ru/articles/150041/)
