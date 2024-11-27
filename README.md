@@ -39,3 +39,14 @@
 ### [Условие](Laba5/Java_5.docx)
 ![img.png](Laba5/uml_diagram.png)
 ### [статья](https://habr.com/ru/articles/150041/)
+
+
+## Лабораторная работа №6
+
+### [Задание 1](Laba6/Laba6Number1.java)
+### [Задание 2](Laba6/Laba6Number2.java)
+### [Задание 3](Laba6/Laba6Number3.java)
+### [Задание 4](Laba6/Laba6Number4.java)
+### [Задание 5](Laba6/Laba6Number5.java)
+### [Условие](Laba6/Java_6.docx)
+### [output_log_file](input_log.txt)
