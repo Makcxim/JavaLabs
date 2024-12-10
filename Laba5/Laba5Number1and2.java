@@ -14,7 +14,7 @@ public class Laba5Number1and2 {
 }
 
 abstract class Tool {
-    abstract void use();
+    protected abstract void use();
 }
 
 interface ElectricTool {
@@ -23,7 +23,7 @@ interface ElectricTool {
 
 class Hammer extends Tool {
     @Override
-    void use() {
+    public void use() {
         System.out.println("Использую молоток для забивания гвоздей.");
     }
 }
@@ -31,14 +31,14 @@ class Hammer extends Tool {
 
 class DefaultScrewdriver extends Tool {
     @Override
-    void use() {
+    public void use() {
         System.out.println("Использую отвертку для закручивания винтов.");
     }
 }
 
 class Screwdriver extends Tool implements ElectricTool {
     @Override
-    void use() {
+    public void use() {
         System.out.println("Использую электрическую отвертку для закручивания винтов.");
     }
 
@@ -50,7 +50,7 @@ class Screwdriver extends Tool implements ElectricTool {
 
 class Wrench extends Tool {
     @Override
-    void use() {
+    public void use() {
         System.out.println("Использую гаечный ключ для затягивания болтов.");
     }
 }
