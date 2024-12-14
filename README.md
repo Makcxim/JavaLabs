@@ -50,3 +50,11 @@
 ### [Задание 5](Laba6/Laba6Number5.java)
 ### [Условие](Laba6/Java_6.docx)
 ### [output_log_file](input_log.txt)
+
+
+## Лабораторная работа №7
+
+### [Задание 1](Laba7/Laba7Number1.java)
+### [Задание 2](Laba7/Laba7Number2.java)
+### [Задание 3](Laba7/Laba7Number3.java)
+### [Условие](Laba7/Java_7.docx)
