@@ -58,3 +58,10 @@
 ### [Задание 2](Laba7/Laba7Number2.java)
 ### [Задание 3](Laba7/Laba7Number3.java)
 ### [Условие](Laba7/Java_7.docx)
+
+
+## Лабораторная работа №8
+
+### [Задание 1](Laba8/Laba8Number1.java)
+### [Задание 2](Laba8/Laba8Number2.java)
+### [Условие](Laba8/Java_8.docx)
