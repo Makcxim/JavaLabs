@@ -65,3 +65,18 @@
 ### [Задание 1](Laba8/Laba8Number1.java)
 ### [Задание 2](Laba8/Laba8Number2.java)
 ### [Условие](Laba8/Java_8.docx)
+
+
+## Лабораторная работа №9
+
+### [Задание 1](Laba9/Laba9Number1.java)
+### [Условие](Laba9/Java_9.docx)
+
+
+## Лабораторная работа №10
+
+### [Задание 1](Laba10/Laba10Number1.java)
+### [Условие](Laba10/Java_10.docx)
+### [Внешний вид 1](Laba10-1.png)
+### [Внешний вид 2](Laba10-2.png)
+### [Внешний вид 3](Laba10-3.png)
